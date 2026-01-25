@@ -55,7 +55,7 @@ The system operates through a central **Orchestrator Agent** that coordinates th
     AI_MODEL="groq/openai/gpt-oss-120b" # or your preferred model supported by LiteLLM
 
 4.  **Install all dependencies required by BBOT:**
-    SUDO is required to install some dependencies.
+    SUDO privileges are required to install some dependencies. Enter your sudo password when prompted.
     ```bash
     source .venv/bin/activate
     bbot --install-all-deps
