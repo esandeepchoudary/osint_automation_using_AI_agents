@@ -86,4 +86,5 @@ This short video demonstrates the end-to-end OSINT workflow execution.
 Everything depicted in this video is purely for educational purposes. No ill intent or malicious activity is intended, encouraged, or endorsed.
 
 ▶️ **Watch the demo**  
-https://youtu.be/0YlMHOdHacQ
+[![Watch the demo](https://img.youtube.com/vi/0YlMHOdHacQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=0YlMHOdHacQ)
+
