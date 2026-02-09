@@ -1,6 +1,6 @@
 # OSINT Agents
 
-A comprehensive OSINT (Open Source Intelligence) framework powered by Agentic AI. This project orchestrates multiple specialized agents to perform deep reconnaissance on target domains, covering discovery, enumeration, breach checking, and reporting.
+An OSINT (Open Source Intelligence) framework powered by Agentic AI. This project orchestrates multiple specialized agents to perform deep reconnaissance on target domains, covering discovery, enumeration, breach checking, and reporting.
 
 ## Overview
 
@@ -79,3 +79,11 @@ adk web
 5.  **Breach Check**: `invoke_breachcheck` verifies if emails verify against breach datasets.
 6.  **Reporting**: `reporting_start_function` compiles all gathered data into a report.
 7.  **Final Response**: Path to the generated DOCX report is returned.
+
+## 🎥 Demo Video
+
+This short video demonstrates the end-to-end OSINT workflow execution.
+Everything depicted in this video is purely for educational purposes. No ill intent or malicious activity is intended, encouraged, or endorsed.
+
+▶️ **Watch the demo**  
+https://youtu.be/0YlMHOdHacQ
