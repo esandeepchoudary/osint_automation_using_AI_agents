@@ -2,6 +2,9 @@
 
 An OSINT (Open Source Intelligence) framework powered by Agentic AI. This project orchestrates multiple specialized agents to perform deep reconnaissance on target domains, covering discovery, enumeration, breach checking, and reporting.
 
+## Medium Article
+For a detailed explanation, check out this Medium post: https://sandeepegalapati.medium.com/osint-automation-using-ai-agents-5550acd18fe9
+
 ## Overview
 
 The system operates through a central **Orchestrator Agent** that coordinates the following specialized agents:
